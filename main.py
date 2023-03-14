@@ -1,4 +1,4 @@
-mayor = 4
+mayor = 0
 residuo = 0
 #Division del mayor
 residuo = mayor % 2
