@@ -8,12 +8,12 @@ Python fue creado por Guido van Rossum, un programador holandés a finales de lo
 
 ## Comandos básicos en Python
 1. Comandos básico
-    - Print
+    - "Print
         - int
             - input
                 - float
-                    -While
-                    - 
+                    - While
+    
 
 
 
